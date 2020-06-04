@@ -1,0 +1,50 @@
+#contatore {
+  background-color: orange;
+  border-radius: 25px;
+}
+
+#gmail{
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.testologo {
+  color: white;
+  font-size: 25px;
+}
+
+.mail {
+  background-color: darkgrey;
+  border: 1px solid black;
+}
+
+.mailalt{
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.contenitore {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.testofooter{
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+body{
+  background-image: url('https://cdn.hipwallpaper.com/i/79/1/30VwTQ.jpeg');
+
+}
+
+img{
+  width: 150px;
+  height: 150px;
+}
+
+h2{
+  color: white;
+}
